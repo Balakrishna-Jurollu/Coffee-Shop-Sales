@@ -2,7 +2,7 @@
 ## Project Objective
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 ## Dataset used
-- <a href="https://github.com/Balakrishna-Jurollu/My-Financial-Analysis/blob/main/Finance%20Database.xlsx">Dataset</a>
+- <a href="https://github.com/Balakrishna-Jurollu/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Data%20Set.xlsx">Dataset</a>
 ## Questions (KPIs)
 - How do sales vary by day of the week and hour of the day?
 - Are there any peak times for sales activity?
