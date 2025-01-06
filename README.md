@@ -39,4 +39,5 @@ The main objective of this project is to analyze retail sales data to gain actio
 - Location-Specific Strategies: Customize promotions and inventory based on location-specific customer behaviors.
 - Upselling Opportunities: Train staff to upsell premium and combo items, leveraging their high contribution to revenue.
 - Data-Driven Decision Making: Continue leveraging data analysis for business optimization, including pricing adjustments and inventory management.
+
 This project provided actionable insights to improve operational efficiency, customer satisfaction, and financial performance, underscoring the value of data-driven strategies in the coffee shop business.
