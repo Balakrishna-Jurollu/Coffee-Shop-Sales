@@ -19,4 +19,4 @@ The main objective of this project is to analyze retail sales data to gain actio
 - Merge all reports into one dashboard to make dynamic.
 ## Dashboard
 
-![Screenshot (495)](![Dashboard_Screenshot](https://github.com/user-attachments/assets/0001bf96-a671-4176-a403-6ffa32ef04a8)
+[Dashboard_Screenshot](https://github.com/user-attachments/assets/0001bf96-a671-4176-a403-6ffa32ef04a8)
