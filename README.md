@@ -11,4 +11,4 @@ The main objective of this project is to analyze retail sales data to gain actio
 - what is the average price/order per person
 - Which products are the best selling in terms of quantity and revenue?
 - How do sales vary by product category and type
-
+- Dashboard Interaction <a href="Dashboard Interaction <a href="https://github.com/Balakrishna-Jurollu/My-Financial-Analysis/blob/main/My-Finance-Analysis-Dashboard.png">View Dashboard</a>
