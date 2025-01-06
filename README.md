@@ -1,4 +1,4 @@
-# My-Financial-Analysis (An Interactive Dashboard Created using MS-Excel and Pivot Tables)
+# Coffee-Shop-Sales-Analysis (An Interactive Dashboard Created using MS-Excel and Pivot Tables)
 ## Project Objective
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 ## Dataset used
